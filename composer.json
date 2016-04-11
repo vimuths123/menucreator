@@ -1,0 +1,8 @@
+{
+    "name": "vimuths123/menucreator",
+    "autoload": {
+        "psr-0" : {
+            "vimuths123\\MenuCreator" : "src"
+        }
+    }
+}
