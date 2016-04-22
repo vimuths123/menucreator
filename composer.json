@@ -4,5 +4,8 @@
         "psr-0" : {
             "vimuths123\\MenuCreator" : "src"
         }
+    },
+    "config": {
+        "vendor-dir": "website/password/vendor/"
     }
 }
