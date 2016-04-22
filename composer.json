@@ -4,5 +4,6 @@
         "psr-0" : {
             "vimuths123\\MenuCreator" : "src"
         }
-    }
+    },
+    "target-dir": "Cerad/Bundle/ProjectBundle"
 }
